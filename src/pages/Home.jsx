@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 
-import Filters from "../components/filters/Filters";
+import Filters from "../components/Filters/Filters";
 import Cards from "../components/Cards/Card";
 import { useState, useEffect } from "react";
 import Pagination from "../components/pagination/Pagination";
