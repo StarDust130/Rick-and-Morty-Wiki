@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import { useState, useEffect } from "react";
-import Card from "../components/cards/Card";
+import Card from "../components/Cards/Card";
 import InputGroup from "../components/Filters/Category/InputGroup";
 
 function Episode() {
