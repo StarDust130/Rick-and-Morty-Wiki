@@ -6,11 +6,9 @@
 </p>
 
 Welcome to the Rick and Morty Wiki project! This is a web application built using React, Bootstrap, and Tailwind CSS. It allows you to explore information about your favorite characters, episodes, and locations from the "Rick and Morty" TV series.
-<p align="center">
-  <a href="https://stardust-rick-and-morty-wiki.netlify.app/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiH9jyNF5I0w3wFXylrs63Tns5GoI9t_JYGQ&usqp=CAU" alt="See Live" /> <br/>
-  </a>
-</p>
+
+## [See Live](https://stardust-rick-and-morty-wiki.netlify.app/)🌟
+
 
 
 ## 🚀 Features
@@ -31,7 +29,7 @@ Welcome to the Rick and Morty Wiki project! This is a web application built usin
 
 1. **Clone the repository:**
 
-   📦 `git clone https://github.com/your-username/rick-and-morty-wiki.git`
+   📦 `git clone https://github.com/StarDust130/Rick-and-Morty-Wiki.git`
 
 2. **Navigate to the project directory:**
 
