@@ -4,8 +4,8 @@ import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import Filters from "../components/Filters/Filters";
 import Cards from "../components/Cards/Card";
 import { useState, useEffect } from "react";
-import Pagination from "../components/pagination/Pagination";
-import Search from "../components/search/Search";
+import Pagination from "../components/Pagination/Pagination";
+import Search from "../components/Search/Search";
 
 
 
