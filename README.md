@@ -19,11 +19,12 @@ Welcome to the Rick and Morty Wiki project! This is a web application built usin
 
 ## 🛠️ Technologies Used
 
-- React: A JavaScript library for building user interfaces.
-- Bootstrap: A front-end framework for responsive web design.
-- Tailwind CSS: A utility-first CSS framework for easy styling.
-- SCSS: A CSS preprocessor for more maintainable stylesheets.
-- Netlify: A cloud hosting platform for deploying your web apps.
+- 🚀 React: A JavaScript library for building user interfaces.
+- 💻 JavaScript: A versatile programming language for web development.
+- 🌐 Bootstrap: A front-end framework for responsive web design.
+- 🎨 Tailwind CSS: A utility-first CSS framework for easy styling.
+- 🎀 SCSS: A CSS preprocessor for more maintainable stylesheets.
+- ☁️ Netlify: A cloud hosting platform for deploying your web apps.
 
 ## 🚧 Installation
 
