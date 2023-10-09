@@ -10,7 +10,6 @@ Welcome to the Rick and Morty Wiki project! This is a web application built usin
 ## [See Live](https://stardust-rick-and-morty-wiki.netlify.app/)🌟
 
 
-
 ## 🚀 Features
 - 📜 Browse and search for your favorite characters from the show.
 - 📺 Explore detailed information about episodes and their air dates.
