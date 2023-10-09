@@ -7,9 +7,6 @@ import { useState, useEffect } from "react";
 import Pagination from "../components/Pagination/Pagination";
 import Search from "../components/Search/Search";
 
-
-
-
 const Home = () => {
   let [pageNumber, setPageNumber] = useState(1);
   let [fetchData, setFetchData] = useState([]);
@@ -31,7 +28,7 @@ const Home = () => {
 
   return (
     <>
-    <h1 className="text-4xl text-center mb-3 font-bold">Characters </h1>
+      <h1 className="text-4xl text-center mb-3 font-bold">Characters </h1>
       <Search setPageNumber={setPageNumber} setSearch={setSearch} />
       <div className="container">
         <div className="row">

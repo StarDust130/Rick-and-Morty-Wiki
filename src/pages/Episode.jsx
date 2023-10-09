@@ -47,7 +47,7 @@ function Episode() {
           <div className="col-3">
             <div className="text-center mb-4">
               <h4 className="text-2xl mb-2">Pick Episode</h4>
-              <InputGroup name="pisode" total={51} setID={setID} />
+              <InputGroup name="Episode" total={51} setID={setID} />
             </div>
           </div>
 
