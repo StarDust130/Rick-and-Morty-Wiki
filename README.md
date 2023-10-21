@@ -12,7 +12,7 @@ Welcome to the Rick and Morty Wiki project! This is a web application built usin
 - 📜 Browse and search for your favorite characters from the show.
 - 📺 Explore detailed information about episodes and their air dates.
 - 🌎 Discover unique locations featured in the series.
-
+- 
 ## 🛠️ Technologies Used
 
 - 🚀 React: A JavaScript library for building user interfaces.
